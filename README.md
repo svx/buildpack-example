@@ -68,4 +68,4 @@ When the build is successful you should see something like
 docker run -p 5000:5000 --name fastapi svx/fastapi-pip:1.0.0
 ```
 
-Open your browser an go to http://localhost:5000/
+Open your browser and browse to http://localhost:5000/
